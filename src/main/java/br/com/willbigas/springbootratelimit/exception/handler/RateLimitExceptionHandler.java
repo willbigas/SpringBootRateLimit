@@ -1,4 +1,4 @@
-package br.com.willbigas.springbootratelimit.config.handler;
+package br.com.willbigas.springbootratelimit.exception.handler;
 
 import br.com.willbigas.springbootratelimit.dto.ApiErrorMessage;
 import br.com.willbigas.springbootratelimit.exception.RateLimitException;

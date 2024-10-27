@@ -1,4 +1,4 @@
-package br.com.willbigas.springbootratelimit.config.ratelimit.dto;
+package br.com.willbigas.springbootratelimit.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Getter;

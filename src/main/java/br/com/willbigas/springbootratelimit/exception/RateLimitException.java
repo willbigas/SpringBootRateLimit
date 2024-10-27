@@ -1,6 +1,6 @@
-package br.com.willbigas.springbootratelimit.config.ratelimit.exception;
+package br.com.willbigas.springbootratelimit.exception;
 
-import br.com.willbigas.springbootratelimit.config.ratelimit.dto.ApiErrorMessage;
+import br.com.willbigas.springbootratelimit.dto.ApiErrorMessage;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 

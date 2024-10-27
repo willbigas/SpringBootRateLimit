@@ -1,4 +1,4 @@
-package br.com.willbigas.springbootratelimit.config.ratelimit;
+package br.com.willbigas.springbootratelimit.config.ratelimit.annotation;
 
 
 import java.lang.annotation.ElementType;

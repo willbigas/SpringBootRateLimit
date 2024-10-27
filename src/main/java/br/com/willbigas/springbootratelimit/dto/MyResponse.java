@@ -7,7 +7,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Builder
-public class MyRequest {
+public class MyResponse {
 
 	String name;
 }
